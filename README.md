@@ -20,7 +20,7 @@
 
 - Pull the Docker image: `docker pull jdneto84/fullcycle` 📥
 - Run the Docker container: `docker run jdneto84/fullcycle` 🏃
-- Print result: "Full Cycle Rocks!!" 🖨️
+- Execution result: `Full Cycle Rocks!!` 🖨️
 
 ### Docker Hub Link:
 
